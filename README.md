@@ -1,16 +1,44 @@
-# voidcore README
+# VoidCore A Sleek, and Minimal VS Code Theme
 
-## Working with Markdown
+**VoidCore** is a sleek, minimal, and high-contrast dark theme for Visual Studio Code, built for developers who code like they’re inside a simulation. Tailored for deep-focus, late-night creativity, and zero-distraction workflows.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Images :
+![VoidCore Preview1](./images/preview1.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![VoidCore Preview2](./images/preview2.png)
 
-## For more information
+![VoidCore Preview3](./images/preview3.png)
+---
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## ✨ Features
 
-**Enjoy!**
+- 🧠 **Designed for focus** – No distractions, just clean colors and clean code.
+- 🌌 **Dark theme optimized** – Deep backgrounds, luminous syntax, developer-core aesthetics.
+- 💻 **Productivity-tuned** – Readable, non-fatiguing palette for long coding sessions.
+- 🧪 **Extensive syntax coverage**:
+  - JavaScript / TypeScript
+  - HTML / CSS / SCSS
+  - Python, C/C++, Rust
+  - Markdown, YAML, JSON
+  - Bash, Dockerfiles, Git config
+- 🔧 **UI Consistency** – Sidebars, tabs, activity bar, and popups all match the tone of VoidCore
+
+---
+
+## 🚀 Installation
+
+### ▶️ From VS Code Marketplace
+
+1. Open **Extensions** sidebar in VS Code (`Ctrl+Shift+X`)
+2. Search for `VoidCore`
+3. Click **Install**
+4. Hit `Ctrl+K Ctrl+T` to pick the theme
+
+### 💻 Manual Installation (Dev Version)
+
+```bash
+git clone https://github.com/pranav89624/VoidCore.git
+cd VoidCore
+npm install
+npx vsce package
+code --install-extension voidcore-theme-1.0.0.vsix

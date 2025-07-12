@@ -1,7 +1,8 @@
 {
-  "name": "voidcore",
+  "name": "voidcore-theme",
   "displayName": "VoidCore",
-  "description": "\tA futuristic, high-contrast VS Code theme for focused development in the dark.",
+  "description": "\tA sleek, and minimal dark theme for Visual Studio Code, built for deep-focus coding in low-light environments.",
+  "publisher": "Pranav Verma",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.102.0"
@@ -9,6 +10,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "images/icon.png",
   "contributes": {
     "themes": [
       {
@@ -17,5 +19,26 @@
         "path": "./themes/VoidCore-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pranav89624/VoidCore"
+  },
+  "license": "MIT",
+  "keywords": [
+    "voidcore",
+    "dark theme",
+    "high contrast",
+    "developer tools",
+    "vscode theme",
+    "focus",
+    "minimal"
+  ],
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
   }
 }
