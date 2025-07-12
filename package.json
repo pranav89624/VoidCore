@@ -1,0 +1,21 @@
+{
+  "name": "voidcore",
+  "displayName": "VoidCore",
+  "description": "\tA futuristic, high-contrast VS Code theme for focused development in the dark.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VoidCore",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VoidCore-color-theme.json"
+      }
+    ]
+  }
+}
