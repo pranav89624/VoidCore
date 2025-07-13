@@ -1,5 +1,14 @@
 # VoidCore A Sleek, and Minimal VS Code Theme
 
+<div align="center">
+  <img src="./images/icon.png" alt="VoidCore Logo"> 
+  <br/><br/>
+</div>
+
+> <div align="center">Theme your eyes will love.</div>
+
+<br/>
+
 **VoidCore** is a sleek, minimal, and high-contrast dark theme for Visual Studio Code, built for developers who code like they’re inside a simulation. Tailored for deep-focus, late-night creativity, and zero-distraction workflows.
 
 ## Images :
@@ -34,11 +43,13 @@
 3. Click **Install**
 4. Hit `Ctrl+K Ctrl+T` to pick the theme
 
-### 💻 Manual Installation (Dev Version)
+## Author: 
+[Pranav Verma](https://github.com/pranav89624)
 
-```bash
-git clone https://github.com/pranav89624/VoidCore.git
-cd VoidCore
-npm install
-npx vsce package
-code --install-extension voidcore-theme-1.0.0.vsix
+## License
+This theme is released under the [MIT License](https://github.com/pranav89624/VoidCore/blob/main/LICENSE.MD)
+
+
+<div align="center">
+  copyright © 2025 Pranav Verma
+</div>
