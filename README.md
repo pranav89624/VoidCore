@@ -32,6 +32,8 @@
   - Bash, Dockerfiles, Git config
 - 🔧 **UI Consistency** – Sidebars, tabs, activity bar, and popups all match the tone of VoidCore
 
+> 💡 VoidCore requires Visual Studio Code version **1.80.0 or newer** (June 2023) to work as intended.
+
 ---
 
 ## 🚀 Installation

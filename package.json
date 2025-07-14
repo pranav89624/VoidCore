@@ -2,10 +2,10 @@
   "name": "voidcore-theme",
   "displayName": "VoidCore",
   "description": "\tA sleek, and minimal dark theme for Visual Studio Code, built for deep-focus coding in low-light environments.",
-  "publisher": "Pranav Verma",
-  "version": "0.0.1",
+  "publisher": "pranavverma",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.102.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"

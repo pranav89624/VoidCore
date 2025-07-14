@@ -6,6 +6,17 @@ This project adheres to [Semantic Versioning](https://semver.org/) and follows [
 
 ---
 
+## [0.0.2] - 14/07/2025
+
+### 🔧 Compatibility Patch
+
+- Set `engines.vscode` to `^1.80.0` in `package.json` to prevent install failures on outdated VS Code versions.
+- Added version requirement note to `README.md`.
+- Prepped for forward-compatible theme updates.
+- Rebuilt and republished to the VS Code Marketplace.
+
+---
+
 ## [0.0.1] - 13/07/2025
 
 ### 🎉 Initial Release
@@ -21,4 +32,4 @@ This project adheres to [Semantic Versioning](https://semver.org/) and follows [
 
 ---
 
-> Maintained by [Pranav Verma](https://github.com/pranav89624) - open for suggestions, issues, and pull requests!
+> Maintained by [Pranav Verma](https://github.com/pranav89624) – open for suggestions, issues, and pull requests!
