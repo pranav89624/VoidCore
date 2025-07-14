@@ -6,7 +6,17 @@ This project adheres to [Semantic Versioning](https://semver.org/) and follows [
 
 ---
 
-## [0.0.2] - 14/07/2025
+## [0.0.5] – 14/07/2025
+
+### 🔁 Meta Patch (version gap intentional)
+
+- Skipped `v0.0.4` to maintain versioning alignment and avoid Marketplace collision
+- No theme changes, just syncing tags and changelog
+- Updated `CHANGELOG.md` to reflect version gap
+
+---
+
+## [0.0.3] - 14/07/2025
 
 ### 🔧 Compatibility Patch
 

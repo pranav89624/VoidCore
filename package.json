@@ -3,7 +3,7 @@
   "displayName": "VoidCore",
   "description": "\tA sleek, and minimal dark theme for Visual Studio Code, built for deep-focus coding in low-light environments.",
   "publisher": "pranavverma",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.80.0"
   },
